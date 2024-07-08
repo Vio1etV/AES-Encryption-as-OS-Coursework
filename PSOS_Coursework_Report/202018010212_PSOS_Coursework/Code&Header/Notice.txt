@@ -1,0 +1,6 @@
+If you want to run the code, please do check the inside of the code, see the location of the specific database 
+path in main() function.
+And for the record, there are possibilities that code may not be able to run on different plantforms
+since this code is Ubuntu based, header files of pthread could high likely be incompatible with MINIX.
+The nuance between to version of Ubuntu could cause the code not be able to run.
+Sorry, this is how linux based systems work, it constantly changes, most of the online code cannot be ran as well, during many attempts in this coursework, from my personal experience. And this version is the one I modified for like 10 iteratives, tricky to modify and upgrade and put it on the system
